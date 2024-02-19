@@ -16,7 +16,4 @@ The dataset comprises 79 descriptive variables that encapsulate various attribut
 - SVM: Achieved an MSE of 0.0085
 
 ## Conclusion
-
-In conclusion, our predictive models demonstrated varying degrees of success in forecasting the sale prices of residential properties in Ames, Iowa. While all models performed reasonably well, SVM outperformed the other models with an MSE of 0.0085, indicating its potential for accurate price prediction.
-
-The results highlight the effectiveness of employing advanced regression techniques and creative feature engineering to enhance predictive performance in the real estate domain.
+While all models performed reasonably well, SVM outperformed the other models with an MSE of 0.0085, indicating its potential for accurate price prediction. The results highlight the effectiveness of employing advanced regression techniques and creative feature engineering to enhance predictive performance in the real estate domain.
